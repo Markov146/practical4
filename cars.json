@@ -1,0 +1,17 @@
+[
+  {
+    "model": "Mondeo",
+    "year": 2015,
+    "brand": "Ford"
+  },
+  {
+    "model": "A5",
+    "year": 2015,
+    "brand": "Audi"
+  },
+  {
+    "model": "Rio",
+    "year": 2013,
+    "brand": "KIA"
+  }
+]
